@@ -22,7 +22,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"  
+  name = "Methodology"  
   
 [[feature]]
   icon = "camera-retro"
