@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Professor"
+  title = "Professor and Director of Global Learning"
   company = "Department of Government and Politics"
   company_url = "gvpt.umd.edu"
   location = "University of Mayland, College Park"
@@ -31,6 +31,33 @@ date_format = "Jan 2006"
   * Research Director, Center for International Development and Conflict Management (2010-2018)
   * Assistant Professor (2007-2009)
   """
+  
+  [[experience]]
+   title = "Postdoctoral Fellow"
+  company = "National Consortium for the Study of Terrorism"
+  company_url = ""
+  location = "University of Mayland, College Park"
+  date_start = "2007-08-01"
+  date_end = "2008-05-01"
+  description = ""
+  
+[[experience]]
+  title = "Postdoctoral Fellow"
+  company = "The National Academies Research Council"
+  company_url = ""
+  location = "University of Mayland, College Park"
+  date_start = "2006-08-01"
+  date_end = "2007-05-01"
+  description = ""
+  
+ [[experience]]
+  title = "Assistant Professor"
+  company = "Department of Political Science"
+  company_url = ""
+  location = "State University of New York at Buffalo"
+  date_start = "2001-08-01"
+  date_end = "2007-05-01"
+  description = ""
 
 
 
