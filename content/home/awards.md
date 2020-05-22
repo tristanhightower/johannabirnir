@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Grants & Awards"
-subtitle = ""
+subtitle = "Past 5 Years Only"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Folke Bernadotte"
-  organization_url = "https://www.coursera.org"
+  organization_url = "https://fba.se/en/"
   title = "Gender and Violence Across the World: Indonesia"
   url = ""
   certificate_url = ""
@@ -29,14 +29,14 @@ date_format = "Jan 2006"
   description = "Grant with David Waguespack ($27,000)"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "College of Behavioral and Social Science Dean's Research Initiative"
+  organization_url = "https://bsos.umd.edu/"
+  title = "Interdisciplinary Laboratory in Computational Social Science"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-08-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Grant with Ernesto Calvo and David Waguespack ($16,000)"
   
 [[item]]
   organization = "DataCamp"
