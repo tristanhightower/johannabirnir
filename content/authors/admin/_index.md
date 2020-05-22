@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jóhanna Birnir
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Government and Politics & Director, Global Learning
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Maryland, College Park
+  url: "https://gvpt.umd.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on the relationship between identity (ethnicity, religion, gender) and contentious political outcomes (elections and violence), often as mitigated by institutions.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Comparative Politics
+- Identity Politics
+- Fieldwork
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Political Science
+    institution: University of California, Los Angeles
+    year: 2001
+  - course: MA in Political Science
+    institution: University of California, Los Angeles
+    year: 1993
+  - course: BA in Political Science
+    institution: University of California, Irvine
+    year: 1998
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,13 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:jkbirnir@umd.edu"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jkbirnir?lang=en
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=1dHeQGgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jóhanna Kristín Birnir is a Professor in the department of Government and Politics and the director of GVPT Global  Jóhanna studies the effect of identity (ethnicity, religion, gender) on contentious political outcomes (elections and violence), and has done extensive fieldwork in the Andes, South-East Europe and Indonesia.  Jóhanna´s  first book "Ethnic Electoral Politics" (Cambridge University Press) examines the relationship between political access and minority strategic choice of peaceful electoral participation, protest or violence against the state.  Her current book project (under contract with Cambridge University Press and supported by the Global Religion Research Initiative - University of Notre Dame) examines the relationship between identity (ethnicity and religion) and minority peaceful and violent political mobilization.  Jóhanna´s articles on identity and politics are published in numerous academic journals including the American Journal of Political Science, Comparative Political Studies, Journal of Peace Research, Journal of Conflict Resolution, Party Politics, Latin American Research Review , and Journal of Global Security Studies.  Her research has been supported by the National Science Foundation and The National Consortium for the Study of Terrorism and Responses to Terrorism and Folke Bernadotte Academy. 
