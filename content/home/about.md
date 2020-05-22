@@ -12,7 +12,7 @@ image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` s
 image_position = "center"  # Options include `left`, `center` (default), or `right`.
 image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
-title = "Biography"
+title = "About"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
