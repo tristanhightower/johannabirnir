@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2019-08-01"
-  date_end = "05-01-2020"
+  date_end = "2020-05-01"
   description = "Grant with David Waguespack ($27,000)"
 
 [[item]]
