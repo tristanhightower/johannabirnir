@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "University of Mayland, College Park"
   date_start = "2007"
   date_end = "2008"
-  description = """
+  description = ""
   
 [[experience]]
   title = "Postdoctoral Fellow"
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   location = "University of Mayland, College Park"
   date_start = "2006"
   date_end = "2007"
-  description = """
+  description = ""
   
  [[experience]]
   title = "Assistant Professor"
@@ -57,6 +57,6 @@ date_format = "Jan 2006"
   location = "State University of New York at Buffalo"
   date_start = "2001"
   date_end = "2007"
-  description = """
+  description = ""
 
 +++
