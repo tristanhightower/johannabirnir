@@ -32,31 +32,6 @@ date_format = "Jan 2006"
   * Assistant Professor (2007-2009)
   """
 
-[[experience]]
-   title = "Postdoctoral Fellow"
-  company = "National Consortium for the Study of Terrorism"
-  company_url = ""
-  location = "University of Mayland, College Park"
-  date_start = "2007"
-  date_end = "2008"
-  description = ""
-  
-[[experience]]
-  title = "Postdoctoral Fellow"
-  company = "The National Academies Research Council"
-  company_url = ""
-  location = "University of Mayland, College Park"
-  date_start = "2006"
-  date_end = "2007"
-  description = ""
-  
- [[experience]]
-  title = "Assistant Professor"
-  company = "Department of Political Science"
-  company_url = ""
-  location = "State University of New York at Buffalo"
-  date_start = "2001"
-  date_end = "2007"
-  description = ""
+
 
 +++
