@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Department of Government and Politics"
   company_url = "gvpt.umd.edu"
   location = "University of Mayland, College Park"
-  date_start = "2007"
+  date_start = "2007-08-02"
   date_end = ""
   description = """
   Prior Positions:
