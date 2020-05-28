@@ -37,7 +37,7 @@ education:
     institution: University of California, Irvine
     year: 1998
    - course: Matriculation Examination
-    institution: Menntaskolinn vio Hamrahlio, Reykjavik, Iceland.
+    institution: Menntaskolinn vio Hamrahlio, Reykjavik, Iceland
     year: 1989
     
 
