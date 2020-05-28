@@ -1,17 +1,13 @@
++++
+# Accomplishments widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 60  # Order that this section will appear.
 
+title = "Publications"
+subtitle = ""
 
----
-title: Selected Publications
-summary: Here we describe how to add a page to your site.
-weight = 60 
-headless = true
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
+<p> Test </p>
 
-
----
-
-Add your *content* here...
-Test
++++
