@@ -2,7 +2,7 @@ widget = "pages"  # Use the Pages widget
 headless = true  # This file represents a page section.
 active = true
 title = "Selected Publications"
-subtitle = "70"
+subtitle = "120"
 
 # ... Put Your Section Options Here (title etc.) ...
 
