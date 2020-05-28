@@ -1,41 +1,51 @@
-widget = "pages"  # Use the Pages widget
++++
+# Accomplishments widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true
-weight = 60
+active = true  # Activate this widget? true/false
+weight = 60  # Order that this section will appear.
 
+title = "Grants & Awards"
+subtitle = "Past 5 Years Only"
 
-title = "Selected Publications"
-subtitle = ""
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
 
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-# ... Put Your Section Options Here (title etc.) ...
+[[item]]
+  organization = "Folke Bernadotte"
+  organization_url = "https://fba.se/en/"
+  title = "Gender and Violence Across the World: Indonesia"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-08-01"
+  date_end = "2020-05-01"
+  description = "Grant with David Waguespack ($27,000)"
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+[[item]]
+  organization = "College of Behavioral and Social Science Dean's Research Initiative"
+  organization_url = "https://bsos.umd.edu/"
+  title = "Interdisciplinary Laboratory in Computational Social Science"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-08-01"
+  date_end = ""
+  description = "Grant with Ernesto Calvo and David Waguespack ($16,000)"
   
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = ""
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
-    
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
++++
