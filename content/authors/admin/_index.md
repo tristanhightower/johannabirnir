@@ -36,9 +36,9 @@ education:
   - course: BA in Latin American Studies
     institution: University of California, Irvine
     year: 1998
-  - course: Test
-    institution: Test
-    year: 1998
+  - course: Matriculation Examination
+    institution: Menntaskólinn við Hamrahlíð, Reykjavík, Iceland
+    year: 1989
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
