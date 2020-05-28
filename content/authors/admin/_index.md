@@ -54,9 +54,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=1dHeQGgAAAAJ&hl=en
-- icon: github
+- icon: researchgate
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.researchgate.net/publication/310836536_State_of_the_Field_of_Ethnic_Politics_and_Conflict
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
