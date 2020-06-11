@@ -61,8 +61,7 @@ date_format = "Jan 2006"
   [[item]]
   organization = "University of Maryland"
   organization_url = "umd.edu"
-  title = "Cultural Competence Course Development Award. Diversity General Education Faculty
-Board"
+  title = "Cultural Competence Course Development Award. Diversity General Education Faculty Board"
   url = ""
   certificate_url = ""
   date_start = "2016-08-01"
